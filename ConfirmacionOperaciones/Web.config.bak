@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<!--
+  Para obtener más información sobre cómo configurar la aplicación ASP.NET, visite
+  https://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+<configuration>
+  <system.web>
+    
+    <compilation debug="true" targetFramework="4.5.2">
+      <assemblies>
+        <add assembly="System.IO.Compression, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089"/>
+      </assemblies>
+    </compilation>
+    <httpRuntime targetFramework="4.5.2" maxRequestLength="1048576" executionTimeout="3600" />
+    <authentication mode="Windows"/>
+    <customErrors mode="Off"/>
+  </system.web>
+  <connectionStrings>
+    <!--desarrollo-->
+    <add name="CadenaConexion" connectionString="data source=RANORARAKU;Initial Catalog=ContinuidadDesa;Persist Security Info=True;User ID=usrSIIGROUP; Password=Credicorp.2018" providerName="System.Data.SqlClient"/>
+    <add name="NetSqlAzMan" connectionString="server=10.234.2.63;database=NetSqlAzManStorageDesa;User Id=usrPAD;Password=Rgh37m06T6;"/>  
+  </connectionStrings>
+  <appSettings>
+  
+    <add key="Store_NetSqlAzMan" value="Desarrollo"/>
+    <add key="App_NetSqlAzMan_ConfirmacionOperaciones" value="crediCorpCapital.ConfirmacionOperaciones"/>
+    <add key="App_NetSqlAzMan_MantenedorContratos" value="crediCorpCapital.MantenedorContratos"/>
+    <add key="Ambiente:Desarrollo" value="true"/>
+    
+    <add key="correoRemitente" value="georgeherresan@hotmail.com"/>
+    <add key="clavecorreoRemitente" value="Herresan1981"/>
+    <add key="PuertoMail" value="25"/>
+    <add key="SSLMail" value="false"/>
+    <add key="MailHost" value="10.234.2.67"/>
+    <add key="RutaArchivos" value="C:\Users\george.herrera\Desktop\confirmacionPancho\ConfirmacionOperaciones\Archivos\"/>
+    
+    <!--<add key="formularioCliente" value="http://localhost/ConfirmaciondeOperacionesCliente/ConfirmacionOperaciones/confirmado.aspx"/>-->
+    <!--<add key="formularioCliente" value="http://ranoraraku.cl.capitaldom.local:90/ConfirmaciondeOperacionesCliente/confirmado.aspx" />-->
+    <add key="formularioCliente" value="http://ranoraraku.cl.capitaldom.local:90/ConfirmaciondeOperacionesCliente/confirmado.aspx" />
+    <add key="CabeceraBlotter" value="Fecha Inicio|Folio Operacion|Fecha Vencimiento|Rut Cliente|Secuencia|Nombre Cliente|Tipo Movimiento|Moneda Principal|Monto Principal|Moneda Secundario|TC Cierre Forward|Monto Secundaria|Cumplimiento|Agente|Monto Liquidacion|Margen|Cartera|Vehículo|Folio Asociado|Comentario|Fixing  date|Fecha_Anticipo|Tasa_Anticipo|Recibimos/Pagamos|Moneda Anticipo|"/>
+  
+  </appSettings>
+  <system.codedom>
+    <compilers>
+      <compiler language="c#;cs;csharp" extension=".cs" type="Microsoft.CodeDom.Providers.DotNetCompilerPlatform.CSharpCodeProvider, Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" warningLevel="4" compilerOptions="/langversion:6 /nowarn:1659;1699;1701"/>
+      <compiler language="vb;vbs;visualbasic;vbscript" extension=".vb" type="Microsoft.CodeDom.Providers.DotNetCompilerPlatform.VBCodeProvider, Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" warningLevel="4" compilerOptions="/langversion:14 /nowarn:41008 /define:_MYTYPE=\&quot;Web\&quot; /optionInfer+"/>
+    </compilers>
+  </system.codedom>
+  <system.webServer>
+    <validation validateIntegratedModeConfiguration="false"/>
+    <defaultDocument>
+      <files>
+        <add value="MenuPrincipal.aspx"/>
+        <add value="Principal.aspx"/>
+      </files>
+    </defaultDocument>
+  </system.webServer>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="itextsharp" publicKeyToken="8354ae6d2174ddca" culture="neutral"/>
+        <bindingRedirect oldVersion="0.0.0.0-5.0.5.0" newVersion="5.0.5.0"/>
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+</configuration>

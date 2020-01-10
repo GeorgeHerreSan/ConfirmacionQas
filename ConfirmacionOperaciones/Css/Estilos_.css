@@ -1,0 +1,589 @@
+﻿
+body {
+    font-size: 13px;
+    font-family: Calibri;
+    color: rgb(89,123,123);
+}
+
+.botones {
+    background-color: #E87D1D;
+    /*#e9e9e9;*/
+    border: none;
+    color: white;
+    text-decoration: none;
+    width:87px;
+    height:22px;
+    cursor: pointer;
+}
+
+    .botones:hover {
+        background-color: #e9e9e9;
+        /*#e9e9e9;*/
+        border: none;
+        color: #000;
+        text-decoration: none;
+        width: 87px;
+        height: 22px;
+        cursor: pointer;
+    }
+
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+    border: none;
+    background: #758b8b !important;
+    font-weight: normal;
+    color: white !important;
+}
+
+
+
+#nav {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+    #nav li {
+        float: left;
+        margin-right: -60px;
+       
+    }
+
+        #nav li a {
+            color:rgb(89,123,123) !important;
+            text-decoration: none
+        }
+
+            #nav li a:hover {
+                color: #006699;
+                text-decoration: none
+            }
+
+#notification_li {
+    position: relative
+
+}
+
+#notificationContainer {
+    background-color: #fff;
+    border: 1px solid rgba(100, 100, 100, .4);
+    -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+    overflow: visible;
+    position: absolute;
+    top: 30px;
+    margin-left: -51px;
+    width: 180px;
+    z-index: 200;
+    display: none;
+}
+
+    #notificationContainer:before {
+        content: '';
+        display: block;
+        position: absolute;
+        width: 0;
+        height: 0;
+        color: transparent;
+        border: 10px solid black;
+        border-color: transparent transparent white;
+        margin-top: -20px;
+        margin-left: 80px;
+    }
+
+#notificationTitle {
+    z-index: 1000;
+    font-weight: bold;
+    padding: 8px;
+    font-size: 13px;
+    background-color: #ffffff;
+    width: 164px;
+    border-bottom: 1px solid #dddddd;
+}
+
+#notificationsBody {
+    padding: 0px 0px 0px 0px !important;
+    min-height: 300px;
+    max-height:300px;
+    overflow:auto;
+}
+
+#notificationFooter {
+    background-color: #e9eaed;
+    text-align: center;
+    font-weight: bold;
+    padding: 8px;
+    font-size: 12px;
+    border-top: 1px solid #dddddd;
+}
+
+#notification_count {
+    padding: 3px 7px 3px 7px;
+    background: #E87D1D;
+    color: white;
+    font-weight: bold;
+    margin-left: 69px;
+    border-radius: 9px;
+    position: absolute;
+    margin-top: -11px;
+    font-size: 11px;
+}
+
+.Notificaciones {
+    margin-left: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    /* margin-bottom: 10px; */
+    border-radius: 4px 4px 4px 4px;
+    -moz-border-radius: 4px 4px 4px 4px;
+    -webkit-border-radius: 4px 4px 4px 4px;
+    /* border: 0px solid #000000; */
+    border: 1px solid #dddddd;
+    width: 163px;
+    height: 35px;
+    background-color: #758b8b;
+    color: white;
+    font-size: 12px;
+    font-family: Calibri;
+    cursor: pointer;
+}
+
+
+    .Notificaciones:hover {
+        margin-left: 5px;
+        padding-left: 5px;
+        padding-top: 5px;
+        /* margin-bottom: 10px; */
+        border-radius: 4px 4px 4px 4px;
+        -moz-border-radius: 4px 4px 4px 4px;
+        -webkit-border-radius: 4px 4px 4px 4px;
+        /* border: 0px solid #000000; */
+        border: 1px solid #dddddd;
+        width: 163px;
+        height: 35px;
+        background-color: #E87D1D;
+        color: white;
+        font-size: 12px;
+        font-family: Calibri;
+        cursor: pointer;
+    }
+
+
+tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #fbfbfb;
+}
+
+
+
+.divContenedor {
+    padding: 10px 10px 10px 10px;
+    border-radius: 0px 0px 4px 4px;
+    -moz-border-radius: 0px 0px 4px 4px;
+    -webkit-border-radius: 0px 0px 4px 4px;
+    border: 1px solid rgb(89,123,123) !important;
+    
+}
+
+
+
+
+.botonesSmall {
+    background-color: #E87D1D;
+    /*#e9e9e9;*/
+    border: none;
+    color: white;
+    text-decoration: none;
+    width: 40px;
+    height: 15px;
+    cursor: pointer;
+    font-size:small;
+}
+
+    .botonesSmall:hover {
+        background-color: #e9e9e9;
+        /*#e9e9e9;*/
+        border: none;
+        color: #000;
+        text-decoration: none;
+        width: 40px;
+        height: 15px;
+        cursor: pointer;
+        font-size:small;
+    }
+
+
+/*widget*/
+.ui-widget {
+    font-family: Verdana,Arial,sans-serif;
+    font-size: .9em;
+}
+
+/*datepicket*/
+.ui-datepicker { /*no width*/
+    padding: .2em .2em 0;
+}
+
+    .ui-datepicker table {
+        width: 100%;
+        font-size: 0.8em;
+        border-collapse: collapse;
+        margin: 0 0 .4em;
+    }
+
+
+/*#id_img_fondo {
+    width: 100%;
+  
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    z-index: -1;
+}*/
+
+
+/*Estilo personalizado de Grilla */
+#gbox_list {
+    /*width: 1070px !important;*/
+    left: 202px;
+    /*width: 123% !important;*/
+    top: 166px;
+    height: 100%;
+    z-index: 0;
+    /*width: 100% !important;*/
+}
+ui-jqgrid-titlebar {
+    /*width:1070px !important;*/
+}
+
+#DivPreload {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /*margin-left:250px;
+    margin-top:100px;*/
+    z-index: 100;
+    width: 100%;
+    height: 100%;
+    /*background: rgba(232, 125, 29, 1);*/
+    filter: alpha(opacity=60);
+    -moz-opacity: 0.3;
+    opacity: 0.3;
+}
+
+
+#divHead {
+    width: 100%;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #D6E8E8;
+    color: rgb(89,123,123);
+    z-index: 2;
+}
+
+#divMenuIzquierdo {
+    width: 200px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #E4EFEF /*rgba(89,123,123,0.65)*/;
+    z-index: 1;
+}
+
+#divContenido {
+    /*width: 83%;*/
+    /*height: 90%;*/
+    height:40px;
+    position: absolute;
+    top: 48px;
+    left: 210px;
+    background-color: white;
+    z-index: 1;
+}
+#divFooter {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    height: 30px;
+    width: 100%;
+    background:rgb(89,123,123);
+    z-index: 2;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+
+
+
+/*estilos menu acordeon*/
+/*body {
+    background: #292d33;
+    font: 12px/20px Arial;
+    padding: 20px;
+    color: #ccc;
+}*/
+
+p {
+    margin: 0 0 5px;
+}
+
+a, label {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+    a:hover {
+        color: #ddd;
+    }
+
+.menu a {
+    display: block;
+    padding: 10px 15px;
+}
+
+.drop-down a {
+    min-width: 90px;
+}
+
+.drop-down-menu {
+    display: block;
+}
+
+.menu-title {
+    cursor: pointer;
+}
+
+.menu-title {
+    display: block;
+    padding: 10px 15px;
+}
+
+.activate {
+    display: none;
+    position: absolute;
+    cursor: pointer;
+    width: 100%;
+    height: 40px;
+    margin: 0 0 0 -15px;
+    opacity: 0;
+}
+
+/* Skin */
+
+.menu a, .drop-down-menu {
+    background-color: rgba(89,123,123,0.65);
+    border: 1pt solid #D6E8E8;
+    font-size: 14px;
+    /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5796d0), color-stop(100%,#3d6d99));
+    background: -moz-linear-gradient(top, #5796d0 0%, #3d6d99 100%);*/
+}
+
+    .menu a:hover, .drop-down-menu:hover {
+        background: #E87D1D !important;
+        color:white;
+        /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#495261), color-stop(100%,#38404b));
+        background: -moz-linear-gradient(top, #495261 0%, #38404b 100%);*/
+    }
+
+.drop-down a {
+    background: #E4EFEF;
+    color: rgb(89,123,123);
+}
+
+    .drop-down a:hover {
+        background: #D6E8E8 !important;
+        color: #E87D1D;
+    }
+
+
+.menu {
+    width: 200px;
+    top: 40px;
+    position: absolute;
+    background: rgb(89,123,123);
+    opacity:0.65;
+    /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5796d0), color-stop(100%,#3d6d99));
+    background: -moz-linear-gradient(top, #5796d0 0%, #3d6d99 100%);*/
+}
+
+
+
+:checked ~ .menu-title {
+    background: #E87D1D;
+    color:white;
+    /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#E87D1D), color-stop(100%,#38404b));
+    background: -moz-linear-gradient(top, #E87D1D 0%, #38404b 100%);*/
+}
+
+.drop-down {
+    max-height: 0;
+    overflow: hidden;
+}
+
+    .drop-down a {
+        background: white;
+        color: gray;
+        font-size: 12px;
+    }
+
+.activate:checked ~ .drop-down {
+    max-height: 200px;
+}
+
+.drop-down, .menu a, .drop-down-menu {
+    /*-webkit-transform: translateZ(0);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;*/
+    transition: all 0.3s;
+    /*background-color: white;
+    color: black;*/
+}
+
+
+.contenedorFunc
+{
+    font-family:Calibri;
+
+}
+
+
+.tituloDiv {
+    border-radius: 4px 4px 0px 0px;
+    -moz-border-radius: 4px 4px 0px 0px;
+    -webkit-border-radius: 4px 4px 0px 0px;
+    background: #E4EFEF !important;
+    color: rgb(89,123,123) !important;
+    /*border: 1px solid rgb(89,123,123) !important;*/
+    border-color: rgb(89,123,123) !important;
+    border-width:1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: none;
+    border-left-style: solid;
+}
+
+#divSeleccionarTodos {
+    float: right;
+    top: 150px;
+    right: -182px;
+    position: absolute;
+    height: 20px;
+}
+
+
+/*body:after {
+    content: "";
+    font-size: 15em;
+    color: rgba(52, 166, 214, 0.4);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 300px;
+    background-image: url('../img/logo-credicorp.png');
+    background-repeat:no-repeat;
+    opacity:0.4;
+    right: 0;
+    bottom: 0;
+    left: 43%;
+    -webkit-pointer-events: none;
+    -moz-pointer-events: none;
+    -ms-pointer-events: none;
+    -o-pointer-events: none;
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}*/
+
+
+.aviso {
+    content: "Usuario sin privilegios para ecceder a esta aplicación";
+    font-size: 2em;
+    position: absolute;
+    /*color: rgba(52, 166, 214, 0.4);*/
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 5px;
+    /*background-image: url('../img/logo-credicorp.png');*/
+    background-repeat: no-repeat;
+    opacity: 0.4;
+    right: 0;
+    bottom: 0;
+    left: 20%;
+    -webkit-pointer-events: none;
+    -moz-pointer-events: none;
+    -ms-pointer-events: none;
+    -o-pointer-events: none;
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+
+.show {
+    display: block;
+    max-height: 200px;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+.drop-down2 a {
+    min-width: 90px;
+}
+.drop-down2 a {
+    background: #E4EFEF;
+    color: rgb(89,123,123);
+}
+
+.drop-down2 a:hover {
+        background: #D6E8E8 !important;
+        color: #E87D1D;
+}
+
+.drop-down2 {
+    /*max-height: 0;*/
+    overflow: hidden;
+}
+
+    .drop-down2 a {
+        background: white;
+        color: gray;
+        font-size: 12px;
+    }
+
+.activate:checked ~ .drop-down2 {
+    max-height: 200px;
+}
+
+.drop-down2, .menu a, .drop-down-menu {
+    /*-webkit-transform: translateZ(0);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;*/
+    transition: all 0.3s;
+    /*background-color: white;
+    color: black;*/
+}

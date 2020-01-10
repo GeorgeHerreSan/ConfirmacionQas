@@ -1,0 +1,6 @@
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppData\bin\Release\AppData.dll
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppData\bin\Release\AppData.pdb
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppData\obj\Release\AppData.csprojAssemblyReference.cache
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppData\obj\Release\AppData.csproj.CoreCompileInputs.cache
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppData\obj\Release\AppData.dll
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppData\obj\Release\AppData.pdb

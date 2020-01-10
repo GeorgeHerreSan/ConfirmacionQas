@@ -1,0 +1,196 @@
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppCode\bin\Debug\AppCode.dll
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppCode\bin\Debug\AppCode.pdb
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppCode\obj\Debug\AppCode.dll
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppCode\obj\Debug\AppCode.pdb
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppCode\bin\Debug\AppData.dll
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppCode\bin\Debug\AppData.pdb
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\inetpub\wwwroot\MantenedorContratos\AppCode\obj\Debug\AppCode.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\MantenedorContratos\AppCode\obj\Debug\AppCode.dll
+C:\inetpub\wwwroot\MantenedorContratos\AppCode\obj\Debug\AppCode.pdb
+C:\inetpub\wwwroot\MantenedorContratos\AppCode\bin\Debug\AppCode.dll
+C:\inetpub\wwwroot\MantenedorContratos\AppCode\bin\Debug\AppCode.pdb
+C:\inetpub\wwwroot\MantenedorContratos\AppCode\bin\Debug\AppData.dll
+C:\inetpub\wwwroot\MantenedorContratos\AppCode\bin\Debug\AppData.pdb
+C:\Users\rbahamondeso\Desktop\Poryectos SIIGROUP-CREDICORP\Mantenedor de Contratos Fordward\MantenedorContratos\AppCode\bin\Debug\AppCode.dll
+C:\Users\rbahamondeso\Desktop\Poryectos SIIGROUP-CREDICORP\Mantenedor de Contratos Fordward\MantenedorContratos\AppCode\bin\Debug\AppCode.pdb
+C:\Users\rbahamondeso\Desktop\Poryectos SIIGROUP-CREDICORP\Mantenedor de Contratos Fordward\MantenedorContratos\AppCode\bin\Debug\AppData.dll
+C:\Users\rbahamondeso\Desktop\Poryectos SIIGROUP-CREDICORP\Mantenedor de Contratos Fordward\MantenedorContratos\AppCode\bin\Debug\AppData.pdb
+C:\Users\rbahamondeso\Desktop\Poryectos SIIGROUP-CREDICORP\Mantenedor de Contratos Fordward\MantenedorContratos\AppCode\obj\Debug\AppCode.csprojResolveAssemblyReference.cache
+C:\Users\rbahamondeso\Desktop\Poryectos SIIGROUP-CREDICORP\Mantenedor de Contratos Fordward\MantenedorContratos\AppCode\obj\Debug\AppCode.dll
+C:\Users\rbahamondeso\Desktop\Poryectos SIIGROUP-CREDICORP\Mantenedor de Contratos Fordward\MantenedorContratos\AppCode\obj\Debug\AppCode.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppCode\obj\Debug\AppCode.dll
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppCode\obj\Debug\AppCode.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppCode\bin\Debug\AppCode.dll
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppCode\bin\Debug\AppCode.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppCode\bin\Debug\AppData.dll
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppCode\bin\Debug\AppData.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppCode\bin\Debug\itextsharp.xml
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppCode\bin\Debug\itextsharp.dll
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppCode.dll
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppCode.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppData.dll
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\bin\Debug\itextsharp.dll
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppData.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\bin\Debug\itextsharp.xml
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.dll
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppCode.dll
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppCode.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppData.dll
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\itextsharp.dll
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppData.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\itextsharp.xml
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.dll
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.pdb
+C:\Users\rodrigo.bahamondes\Desktop\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppCode.dll
+C:\Users\rodrigo.bahamondes\Desktop\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppCode.pdb
+C:\Users\rodrigo.bahamondes\Desktop\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppData.dll
+C:\Users\rodrigo.bahamondes\Desktop\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\bin\Debug\itextsharp.dll
+C:\Users\rodrigo.bahamondes\Desktop\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppData.pdb
+C:\Users\rodrigo.bahamondes\Desktop\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\bin\Debug\itextsharp.xml
+C:\Users\rodrigo.bahamondes\Desktop\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\rodrigo.bahamondes\Desktop\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.bahamondes\Desktop\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\rodrigo.bahamondes\Desktop\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.dll
+C:\Users\rodrigo.bahamondes\Desktop\ConfirmaciondeOperaciones\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.pdb
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppCode.dll
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppCode.pdb
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppData.dll
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\itextsharp.dll
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppData.pdb
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\itextsharp.xml
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.dll
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.pdb
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppCode\bin\Debug\AppCode.dll
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppCode\bin\Debug\AppCode.pdb
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppCode\bin\Debug\AppData.dll
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppCode\bin\Debug\itextsharp.dll
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppCode\bin\Debug\AppData.pdb
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppCode\bin\Debug\itextsharp.xml
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppCode\obj\Debug\AppCode.dll
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppCode\obj\Debug\AppCode.pdb
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppCode.dll
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppCode.pdb
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppData.dll
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppCode\bin\Debug\itextsharp.dll
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppData.pdb
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppCode\bin\Debug\itextsharp.xml
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.dll
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.pdb
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppCode\bin\Debug\AppCode.dll
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppCode\bin\Debug\AppCode.pdb
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppCode\bin\Debug\AppData.dll
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppCode\bin\Debug\itextsharp.dll
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppCode\bin\Debug\AppData.pdb
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppCode\bin\Debug\itextsharp.xml
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.dll
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.pdb
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppCode\bin\Debug\AppCode.dll
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppCode\bin\Debug\AppCode.pdb
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppCode\bin\Debug\AppData.dll
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppCode\bin\Debug\itextsharp.dll
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppCode\bin\Debug\AppData.pdb
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppCode\bin\Debug\itextsharp.xml
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.dll
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.pdb
+D:\EMPRESA\SIIgroup\Credicorp\Rama_Herrera\ConfirmacionOperaciones\AppCode\bin\Debug\AppCode.dll
+D:\EMPRESA\SIIgroup\Credicorp\Rama_Herrera\ConfirmacionOperaciones\AppCode\bin\Debug\AppCode.pdb
+D:\EMPRESA\SIIgroup\Credicorp\Rama_Herrera\ConfirmacionOperaciones\AppCode\bin\Debug\AppData.dll
+D:\EMPRESA\SIIgroup\Credicorp\Rama_Herrera\ConfirmacionOperaciones\AppCode\bin\Debug\itextsharp.dll
+D:\EMPRESA\SIIgroup\Credicorp\Rama_Herrera\ConfirmacionOperaciones\AppCode\bin\Debug\AppData.pdb
+D:\EMPRESA\SIIgroup\Credicorp\Rama_Herrera\ConfirmacionOperaciones\AppCode\bin\Debug\itextsharp.xml
+D:\EMPRESA\SIIgroup\Credicorp\Rama_Herrera\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+D:\EMPRESA\SIIgroup\Credicorp\Rama_Herrera\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+D:\EMPRESA\SIIgroup\Credicorp\Rama_Herrera\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+D:\EMPRESA\SIIgroup\Credicorp\Rama_Herrera\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.dll
+D:\EMPRESA\SIIgroup\Credicorp\Rama_Herrera\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.pdb
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppCode\bin\Debug\AppCode.dll
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppCode\bin\Debug\AppCode.pdb
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppCode\bin\Debug\AppData.dll
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppCode\bin\Debug\itextsharp.dll
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppCode\bin\Debug\AppData.pdb
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppCode\bin\Debug\itextsharp.xml
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.dll
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.pdb
+C:\Users\georg\source\ConfirmacionOperaciones\AppCode\bin\Debug\AppCode.dll
+C:\Users\georg\source\ConfirmacionOperaciones\AppCode\bin\Debug\AppCode.pdb
+C:\Users\georg\source\ConfirmacionOperaciones\AppCode\bin\Debug\AppData.dll
+C:\Users\georg\source\ConfirmacionOperaciones\AppCode\bin\Debug\itextsharp.dll
+C:\Users\georg\source\ConfirmacionOperaciones\AppCode\bin\Debug\AppData.pdb
+C:\Users\georg\source\ConfirmacionOperaciones\AppCode\bin\Debug\itextsharp.xml
+C:\Users\georg\source\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\georg\source\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\georg\source\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.dll
+C:\Users\georg\source\ConfirmacionOperaciones\AppCode\obj\Debug\AppCode.pdb
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppCode\bin\Debug\AppCode.dll
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppCode\bin\Debug\AppCode.pdb
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppCode\bin\Debug\AppData.dll
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppCode\bin\Debug\itextsharp.dll
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppCode\bin\Debug\AppData.pdb
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppCode\bin\Debug\itextsharp.xml
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppCode\obj\Debug\AppCode.dll
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppCode\obj\Debug\AppCode.pdb
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppCode\bin\Debug\AppCode.dll
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppCode\bin\Debug\AppCode.pdb
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppCode\bin\Debug\AppData.dll
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppCode\bin\Debug\itextsharp.dll
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppCode\bin\Debug\AppData.pdb
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppCode\bin\Debug\itextsharp.xml
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppCode\obj\Debug\AppCode.dll
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppCode\obj\Debug\AppCode.pdb
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmacionOPUnion2\AppCode\bin\Debug\AppCode.dll
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmacionOPUnion2\AppCode\bin\Debug\AppCode.pdb
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmacionOPUnion2\AppCode\bin\Debug\AppData.dll
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmacionOPUnion2\AppCode\bin\Debug\itextsharp.dll
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmacionOPUnion2\AppCode\bin\Debug\AppData.pdb
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmacionOPUnion2\AppCode\bin\Debug\itextsharp.xml
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmacionOPUnion2\AppCode\obj\Debug\AppCode.csprojAssemblyReference.cache
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmacionOPUnion2\AppCode\obj\Debug\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmacionOPUnion2\AppCode\obj\Debug\AppCode.csproj.CopyComplete
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmacionOPUnion2\AppCode\obj\Debug\AppCode.dll
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmacionOPUnion2\AppCode\obj\Debug\AppCode.pdb
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppCode.dll
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppCode.pdb
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppData.dll
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\itextsharp.dll
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\AppData.pdb
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppCode\bin\Debug\itextsharp.xml
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.csprojResolveAssemblyReference.cache
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.dll
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppCode\obj\Debug\AppCode.pdb

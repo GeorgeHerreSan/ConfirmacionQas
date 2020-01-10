@@ -1,0 +1,77 @@
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppData\bin\Debug\AppData.dll
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppData\bin\Debug\AppData.pdb
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppData\obj\Debug\AppData.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppData\obj\Debug\AppData.dll
+C:\Users\rodrigo.bahamondes\source\repos\WebApplication3\AppData\obj\Debug\AppData.pdb
+C:\inetpub\wwwroot\MantenedorContratos\AppData\bin\Debug\AppData.dll
+C:\inetpub\wwwroot\MantenedorContratos\AppData\bin\Debug\AppData.pdb
+C:\inetpub\wwwroot\MantenedorContratos\AppData\obj\Debug\AppData.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\MantenedorContratos\AppData\obj\Debug\AppData.dll
+C:\inetpub\wwwroot\MantenedorContratos\AppData\obj\Debug\AppData.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppData\bin\Debug\AppData.dll
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppData\bin\Debug\AppData.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppData\obj\Debug\AppData.csprojAssemblyReference.cache
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppData\obj\Debug\AppData.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppData\obj\Debug\AppData.dll
+C:\Users\rodrigo.bahamondes\Desktop\Confirmacion de Operaciones\AppData\obj\Debug\AppData.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppData\bin\Debug\AppData.dll
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppData\bin\Debug\AppData.pdb
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.csprojAssemblyReference.cache
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.dll
+C:\Users\rodrigo.bahamondes\Desktop\Documentos CrediCorp\Confirmacion Forward\Codigo fuente\conf\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.pdb
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppData\bin\Debug\AppData.dll
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppData\bin\Debug\AppData.pdb
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.csprojAssemblyReference.cache
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.csproj.CoreCompileInputs.cache
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.dll
+C:\Users\francisco.bravo\Desktop\confirmaciondeOperacionesPrimeraEtapaExtraidodeRanoraraku26092019\conf\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.pdb
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppData\bin\Debug\AppData.dll
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppData\bin\Debug\AppData.pdb
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppData\obj\Debug\AppData.csprojAssemblyReference.cache
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppData\obj\Debug\AppData.csproj.CoreCompileInputs.cache
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppData\obj\Debug\AppData.dll
+C:\Users\francisco.bravo\Desktop\ConfirmaciondeOperaciones final\AppData\obj\Debug\AppData.pdb
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppData\bin\Debug\AppData.dll
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppData\bin\Debug\AppData.pdb
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.csprojAssemblyReference.cache
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.csproj.CoreCompileInputs.cache
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.dll
+C:\Users\francisco.bravo\Documents\Proyectos\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.pdb
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppData\bin\Debug\AppData.dll
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppData\bin\Debug\AppData.pdb
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppData\obj\Debug\AppData.csprojAssemblyReference.cache
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppData\obj\Debug\AppData.dll
+C:\Users\Francisco\Documents\ProyectosSIIGroup\ConfirmacionOperaciones\AppData\obj\Debug\AppData.pdb
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppData\bin\Debug\AppData.dll
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppData\bin\Debug\AppData.pdb
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppData\obj\Debug\AppData.csprojAssemblyReference.cache
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppData\obj\Debug\AppData.csproj.CoreCompileInputs.cache
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppData\obj\Debug\AppData.dll
+D:\EMPRESA\SIIgroup\Credicorp\ConfirmacionOperaciones\AppData\obj\Debug\AppData.pdb
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppData\bin\Debug\AppData.dll
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppData\bin\Debug\AppData.pdb
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppData\obj\Debug\AppData.csproj.CoreCompileInputs.cache
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppData\obj\Debug\AppData.dll
+C:\Users\georg\Source\Repos\ConfirmacionOperaciones\AppData\obj\Debug\AppData.pdb
+C:\Users\georg\source\ConfirmacionOperaciones\AppData\bin\Debug\AppData.dll
+C:\Users\georg\source\ConfirmacionOperaciones\AppData\bin\Debug\AppData.pdb
+C:\Users\georg\source\ConfirmacionOperaciones\AppData\obj\Debug\AppData.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\ConfirmacionOperaciones\AppData\obj\Debug\AppData.dll
+C:\Users\georg\source\ConfirmacionOperaciones\AppData\obj\Debug\AppData.pdb
+C:\Users\georg\source\ConfirmacionOperaciones\AppData\obj\Debug\AppData.csprojAssemblyReference.cache
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppData\bin\Debug\AppData.dll
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppData\bin\Debug\AppData.pdb
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppData\obj\Debug\AppData.csprojAssemblyReference.cache
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppData\obj\Debug\AppData.csproj.CoreCompileInputs.cache
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppData\obj\Debug\AppData.dll
+C:\Users\francisco.bravo\Documents\Proyectos\george\ram2\AppData\obj\Debug\AppData.pdb
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppData\bin\Debug\AppData.dll
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppData\bin\Debug\AppData.pdb
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppData\obj\Debug\AppData.csproj.CoreCompileInputs.cache
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppData\obj\Debug\AppData.dll
+C:\Users\george.herrera\Desktop\confirmacionPancho\AppData\obj\Debug\AppData.pdb
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppData\bin\Debug\AppData.dll
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppData\bin\Debug\AppData.pdb
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.dll
+\\ranoraraku\d$\PasoSiiGroup\confirmaciondeOperaciones\conf\ConfirmaciondeOperaciones\AppData\obj\Debug\AppData.pdb
